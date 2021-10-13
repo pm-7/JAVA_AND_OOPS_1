@@ -33,6 +33,7 @@ Java supports multiple inheritance (multiple parents, single child) only through
 avoid some confusions and errors such as diamond problem of inheritance.
 Plymorphism
 The ability to change form is known as polymorphism. Java supports different kinds of polymorphism like
+
 oveloading and overriding.
 Overloading
 The same method name (method overloading) or operator symbol (operator overloading) can be used in
